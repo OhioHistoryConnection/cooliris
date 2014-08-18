@@ -19,6 +19,6 @@ These scripts are distributed "as is", and neither I nor the Ohio History Connec
 accept liability of any kind. If you do make improvements on the application, however, 
 please consider notifying me and the rest of the CONTENTdm community!
 
-Phil Sager
-Ohio History Connection
+Phil Sager / 
+Ohio History Connection / 
 psager@ohiohistory.org
