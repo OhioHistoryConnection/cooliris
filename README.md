@@ -1,10 +1,10 @@
-# CoolIris Image Wall for CONTENTdm
+# CoolIris Image Wall for CONTENTdm - Modified Extension
 
 The **CoolIris Image Wall for CONTENTdm** is a lightly modified version of the
 extension that is available from the [CONTENTdm User Support Center](http://www.contentdm.org/USC). The only two 
 things that have been modified are 1) adjusting the image dimensions prior to rendering to improve
 load time for the image wall, especially in collections that contain high resolution images; and 
-2) suppressing all page-level images of a compound (except the first image).
+2) suppressing all page-level images of a compound (except the first image). 
 
 Implementation:
 
